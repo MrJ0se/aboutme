@@ -11,8 +11,15 @@ a {
 p {
 	text-indent: 1.5em;
 }
-#main {
-	padding: 1em 3em;
+@media (max-width: 899px) {
+	#main {
+		padding: 1em 1.25em;
+	}
+}
+@media (min-width: 900px) {
+	#main {
+		padding: 1em 3em;
+	}
 }
 /*Side Menu*/
 #side_menu {

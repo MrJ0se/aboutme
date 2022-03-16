@@ -64,7 +64,7 @@ function build_card_html(item) {
 	if (item.apis != "")
 		content += `<p><strong>APIs:</strong> ${item.apis}</p>`;
 	if (item.text != "")
-		content += `<p><strong>text:</strong> ${item.text}</p>`;
+		content += `<p>${item.text}</p>`;
 
 	return `<div class="skill" style="border-color:${item.colo};">
 	<div class="icon" style="background-image:url(./icons/${item.icon})"></div>

@@ -33,7 +33,7 @@ var cards = [
 	"colo":"#d97232",
 	"plat":"",
 	"apis":"",
-	"text":"Animações e mediaquerys em css, algum conhecimento sobre CEO para HTML, linguagens transpilaveis para HTML: pug e ejs, e CSS: scss/sass e less."
+	"text":"Animações e mediaquerys em css, algum conhecimento sobre CEO para HTML, e linguagens transpilaveis para HTML: pug e ejs, e CSS: scss/sass e less."
 },{
 	"lang":"Java",
 	"icon":"java.png",
